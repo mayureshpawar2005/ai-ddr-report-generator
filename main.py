@@ -1,7 +1,7 @@
 from pypdf import PdfReader
 from openai import OpenAI
 
-client = OpenAI(api_key="YOUR_API_KEY")
+client = OpenAI(api_key="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")
 
 
 # Extract text
