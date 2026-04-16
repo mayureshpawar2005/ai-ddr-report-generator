@@ -1,0 +1,32 @@
+
+🏠 DETAILED DIAGNOSTIC REPORT (DDR)
+
+1. Property Issue Summary:
+Issues identified based on inspection and thermal analysis.
+
+2. Area-wise Observations:
+- Living Room: Dampness observed
+- Bedroom: Wall crack detected
+- Kitchen: Water leakage present
+- Bathroom: High moisture detected
+- Thermal: Low temperature indicates moisture
+
+3. Probable Root Cause:
+- Water seepage
+- Structural wear
+- Poor ventilation
+
+4. Severity Assessment:
+HIGH
+Reason: Based on number of affected areas.
+
+5. Recommended Actions:
+- Apply waterproofing
+- Repair leakage sources
+- Improve ventilation
+
+6. Additional Notes:
+Generated using fallback intelligent logic.
+
+7. Missing / Unclear Information:
+Not Available
